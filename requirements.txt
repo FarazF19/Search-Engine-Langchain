@@ -7,3 +7,4 @@ pymupdf
 langchain_community
 langchain_openai
 faiss-cpu
+langchain_groq
