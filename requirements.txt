@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+langchain
+arxiv
+wikipedia
+pymupdf
+langchain_community
+langchain_openai
