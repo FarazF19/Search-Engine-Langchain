@@ -6,3 +6,4 @@ wikipedia
 pymupdf
 langchain_community
 langchain_openai
+faiss-cpu
