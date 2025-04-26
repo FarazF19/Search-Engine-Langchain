@@ -9,3 +9,5 @@ langchain_openai
 faiss-cpu
 langchain_groq
 streamlit
+duckduckgo-search
+langchain-tavily
